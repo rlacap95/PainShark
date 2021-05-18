@@ -9,11 +9,11 @@ library(ggstatsplot)
 library(ggplot2)
 
 ### get data
-shark <- read.csv(here("drg_measurements","20210318_Masterlist.csv"))
+shark <- read.csv(here("drg_measurements","20210517_Masterlist.csv"))
 
 sharkHist <- shark %>% 
-  select(Cell_count,Avg_Dia_um) %>% 
-  ggplot(aes(x=Avg_Dia_um))+
+  select(Cell_count,Avg_Dia_um,Avg_Dia_px,Mag) %>%
+  ggplot(aes(x=Avg_Dia_px))+
   geom_histogram(color="black", fill="white")+
   theme_grey()+
   labs(title="Shark DRG Diameter",
