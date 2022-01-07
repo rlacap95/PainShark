@@ -40,6 +40,7 @@ area_p <- master %>%
               bins = 40)+
   labs(x = "Soma Size (μm2)", y = "Number of cells")+
   theme_classic()+
+  facet_wrap(~dev_stage)+
   theme(axis.title.x = element_text(size = 30, face = 2),
         axis.text.x = element_text(size = 24, face = 2),
         axis.title.y = element_text(size = 30, face = 2),
@@ -52,8 +53,9 @@ snow_p <- master %>%
   gghistogram(x = "avg_dia", add = "mean", rug = TRUE,
               color = "tissue", fill = "tissue",
               bins = 40)+
-  labs(x = "Soma Size (μm2)", y = "Number of cells")+
+  labs(x = "Avg. Diameter (μm)", y = "Number of cells")+
   theme_classic()+
+  facet_wrap(~dev_stage)+
   theme(axis.title.x = element_text(size = 30, face = 2),
         axis.text.x = element_text(size = 24, face = 2),
         axis.title.y = element_text(size = 30, face = 2),
@@ -66,8 +68,9 @@ peri_p <- master %>%
   gghistogram(x = "perimeter", add = "mean", rug = TRUE,
               color = "tissue", fill = "tissue",
               bins = 40)+
-  labs(x = "Soma Size (μm2)", y = "Number of cells")+
+  labs(x = "Perimeter (μm)", y = "Number of cells")+
   theme_classic()+
+  facet_wrap(~dev_stage)+
   theme(axis.title.x = element_text(size = 30, face = 2),
         axis.text.x = element_text(size = 24, face = 2),
         axis.title.y = element_text(size = 30, face = 2),
