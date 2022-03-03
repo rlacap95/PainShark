@@ -37,10 +37,10 @@ area_ttest <- master %>%
 area_p <- master %>% 
   gghistogram(x = "area", add = "mean", rug = TRUE,
               color = "tissue", fill = "tissue",
-              bins = 40)+
+              bins = 60)+
   labs(x = "Soma Size (μm2)", y = "Number of cells")+
   theme_classic()+
-  facet_wrap(~dev_stage)+
+  #facet_wrap(~dev_stage)+
   theme(axis.title.x = element_text(size = 30, face = 2),
         axis.text.x = element_text(size = 24, face = 2),
         axis.title.y = element_text(size = 30, face = 2),
