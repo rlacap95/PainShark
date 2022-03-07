@@ -79,3 +79,20 @@ peri_p <- master %>%
         legend.title = element_text(size = 24, face = 2))
 
 peri_p
+
+### per experiment
+area_p2 <- master %>% 
+  gghistogram(x = "area", add = "mean", rug = TRUE,
+              color = "tissue", fill = "tissue",
+              bins = 60)+
+  labs(x = "Soma Size (μm2)", y = "Number of cells")+
+  theme_classic()+
+  facet_wrap(~exp+dev_stage, scales = "free")
+  #theme(axis.title.x = element_text(size = 30, face = 2),
+        #axis.text.x = element_text(size = 24, face = 2),
+        #axis.title.y = element_text(size = 30, face = 2),
+        #axis.text.y = element_text(size = 24, face = 2),
+        #legend.text=element_text(size = 24, face = 2),
+        #legend.title = element_text(size = 24, face = 2))
+area_p2
+
