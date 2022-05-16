@@ -21,7 +21,25 @@ master <- master %>%
   mutate(avg_dia = x+y/2) %>%   #create average diameters between x and y
   filter(area <= 500,
          area >= 10) %>% 
-  unique()
+  unique() %>% 
+  select(1:5,9) %>% 
+  mutate(dev_stage = recode(dev_stage,
+                           'Pre-hatch' = "Hatched",
+                           '32' = "Stage 32")) %>% 
+  mutate(dev_stage = factor(dev_stage,
+                            levels = c("Stage 32",
+                                       "Hatched")))
+
+master2 <- master %>% 
+  filter(dev_stage == "Stage 32",
+         tissue == "TG") %>% 
+  mutate(avg_dia = sqrt(area)) %>% 
+  select(1:6)
+
+master3 <- master2 %>%
+  bind_rows(master) %>% 
+  na.omit()
+  
 
 duplicates <- master %>% 
   find_duplicates() %>% 
@@ -56,10 +74,11 @@ area_p <- master %>%
         axis.title.y = element_text(size = 30, face = 2),
         axis.text.y = element_text(size = 24, face = 2),
         legend.text=element_text(size = 24, face = 2),
-        legend.title = element_text(size = 24, face = 2))
+        legend.title = element_text(size = 24, face = 2),
+        strip.text = element_text(size = 24))
 area_p
 
-snow_p <- master %>% 
+snow_p <- master3 %>% 
   gghistogram(x = "avg_dia", add = "mean", rug = TRUE,
               color = "tissue", fill = "tissue",
               bins = 40)+
@@ -71,7 +90,8 @@ snow_p <- master %>%
         axis.title.y = element_text(size = 30, face = 2),
         axis.text.y = element_text(size = 24, face = 2),
         legend.text=element_text(size = 24, face = 2),
-        legend.title = element_text(size = 24, face = 2))
+        legend.title = element_text(size = 24, face = 2),
+        strip.text = element_text(size = 24))
 snow_p
 
 peri_p <- master %>% 
