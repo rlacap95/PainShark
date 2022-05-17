@@ -1,0 +1,8 @@
+﻿GENE,Chiloscyllium_punctatum,Chiloscyllium_griseum,Leucoraja_erinacea,Chiloscyllium_plagiosum,Scyliorhinus_canicula,Gallus_gallus,Mus_musculus
+Tac1,0.8125,0,0,1,0,0.79,1
+P2X3,0.8017,0,1,0.9375,0.9231,0.7571,1
+TRKA,0.825,0,0,1,0.825,0.9062,1
+SST,0.7126,0,0,0,0.8689,0.8447,1
+TRPC3,0.724,0,0,0.9412,0.7302,0.7572,1
+TRPV1,0.736,0,0,1,0.73,0.7483,1
+ActB,0.7998,0,0,1,0.8285,0.8711,1
