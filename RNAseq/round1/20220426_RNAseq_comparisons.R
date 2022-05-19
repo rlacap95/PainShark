@@ -43,8 +43,8 @@ master <- mouse %>%
                           'Uh_2_Tg' = "Stingray TG")) %>% 
   mutate_if(is.numeric, ~replace(., is.na(.), 0)) %>% 
   mutate(species = factor(species, levels =
-                            c("Mouse DRG", "Mouse TG",
-                              "Stingray DRG", "Stingray TG"))) %>% 
+                            c("Mouse TG", "Mouse DRG",
+                              "Stingray TG", "Stingray DRG"))) %>% 
   write_csv(here("RNAseq","round1","data","20220426_Master_fpkm.csv"))
 
 ### Plot data
@@ -56,12 +56,19 @@ p <- master %>%
             legend.title = "Species") +
   facet_wrap(~species)+
   theme(axis.text.x = element_text(angle = 90, 
-                                   hjust=1, 
-                                   vjust = .5))+
+                                   hjust=1, vjust = .5,
+                                   size = 24, face = 2),
+        axis.title.x = element_text(size = 30, face = 2),
+        axis.title.y = element_text(size = 30, face = 2),
+        axis.text.y = element_text(size = 24, face = 2),
+        legend.text=element_text(size = 24, face = 2),
+        legend.title = element_text(size = 24, face = 2),
+        strip.text = element_text(size = 24))+
   coord_flip()+
   scale_fill_manual(values = pal) +
   theme_get()+
-  labs(x = " ", y = "FPKM")
+  labs(x = " ", y = "FPKM")+
+  guides(fill = FALSE)
 
 p
 
