@@ -1,0 +1,2067 @@
+﻿exp,species,dev_stage,tissue,area,x,y,perimeter
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,424.34,23.81,28.25,114.8
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,243.18,20,18.1,79.01
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,234.84,19.05,16.83,61.16
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,167.07,15.56,14.29,58.24
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,137.89,14.92,12.06,51.51
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,172.11,15.56,13.97,52.34
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,156.32,16.83,12.06,55.85
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,257.03,16.83,20.32,72.16
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,167.31,16.51,14.29,52.78
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,237.68,15.87,20.63,65.21
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,165.54,15.87,14.6,54.94
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,226.34,21.59,15.24,71.65
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,319.54,19.37,22.22,72.46
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,116.23,11.11,13.02,50.43
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,406.71,27.94,20.32,86.99
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,272.43,20.63,16.51,69.48
+CGRP-594 HuC-488 20x 2 DataTable,Bamboo shark,32,DRG,297.36,23.17,17.46,76.79
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,335.09,23.49,20.63,67.3
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,177.22,16.83,13.97,48.22
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,176.39,15.56,14.6,48.58
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,176.9,17.46,13.33,48.41
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,201.87,18.41,13.65,52.7
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,235.57,19.68,16.51,56.41
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,191.6,15.56,15.87,50.05
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,311.08,20,22.54,66.62
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,187.76,15.56,15.24,49.49
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,190.71,18.73,13.65,52.49
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,213.71,22.22,14.29,55.99
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,209.2,18.1,15.24,52.21
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,254.82,21.27,18.41,64.21
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,622.9,29.52,27.62,93.05
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,222.13,18.1,15.87,54.09
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,451.54,21.59,25.08,76.32
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,175.11,14.92,16.51,49.04
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,188.82,17.14,15.87,50.64
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,139.62,11.43,17.78,46.48
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,159.81,16.83,12.7,46.39
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,198.13,19.05,13.65,52.38
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,98.41,15.87,9.52,39.75
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,154.43,13.97,15.24,46.82
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,282.77,22.54,16.51,63.43
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,214.11,17.14,17.14,54.01
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,187.77,17.14,14.92,49.72
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,221.47,18.41,15.24,56.16
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,171.42,15.87,15.24,48.59
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,195.22,19.68,14.92,52.88
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,186.06,17.14,14.6,51.53
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,145.32,16.51,11.75,44.3
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,183.97,20.63,13.65,52.82
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,283.12,26.35,13.97,67.87
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,245.01,21.27,14.29,58.19
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,178.74,21.9,12.7,55.67
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,156.44,23.17,11.11,58.4
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,160.84,22.22,13.02,55.13
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,189.05,21.59,13.65,57.56
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,305.31,22.86,21.9,68.65
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,682.27,41.27,30.48,117.54
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,601.45,36.51,25.4,97.49
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,172.33,16.83,14.92,49.36
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,199.02,24.44,12.38,59.27
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,235.99,20,16.19,58.12
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,610.36,33.65,25.4,100.77
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,201.3,15.56,15.87,51.36
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,216.77,13.97,19.68,55.38
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,148.14,18.1,13.02,48.73
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,167.98,15.24,14.6,48.62
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,166.11,18.73,13.02,52.35
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,166.39,18.41,13.65,50.86
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,219.71,19.68,15.24,54.03
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,202.7,18.41,15.87,55.15
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,368.13,24.76,21.59,72.95
+CGRP-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,384.37,26.98,19.37,74.12
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,228.43,21.59,15.56,64.96
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,214.61,17.46,15.87,61.77
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,183.28,14.29,16.51,57.22
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,213.19,17.14,15.24,64.88
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,130.78,17.78,10.48,49.71
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,365.58,22.54,20.95,85.23
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,147.18,18.73,9.84,56.44
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,199.36,16.19,16.51,68.2
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,459.68,25.4,26.35,87.36
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,179.74,13.97,16.51,62.61
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,235.44,20,15.24,70.93
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,160.89,15.56,14.6,53.02
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,192.78,16.19,16.51,57.96
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,329.97,25.4,17.78,80.54
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,569.05,30.79,25.08,97.66
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,461.26,30.79,19.37,92.92
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,316.75,19.05,21.59,71.2
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,255.97,19.68,17.46,64.53
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,396.89,27.94,23.17,86.67
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,429.96,22.54,26.35,82.97
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,182.5,19.05,13.97,62.35
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,345.93,33.65,18.41,88.41
+NF-594 HuC-488 20x 3 DataTable,Bamboo shark,32,DRG,255.46,28.25,16.19,75.94
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,269.13,20,18.73,67.51
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,296.65,25.71,18.73,76.77
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,202.92,16.51,18.41,56.11
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,203.02,16.51,15.56,56.17
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,74.17,11.11,8.89,35.58
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,188.71,15.56,15.87,53.44
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,137.41,11.43,16.51,46.34
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,212.24,18.73,15.56,56.21
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,240.11,18.1,17.46,61
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,125.37,14.92,9.84,43.45
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,101.64,12.7,11.43,37.93
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,186.24,14.6,16.19,51.69
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,286.77,27.62,17.46,72.22
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,134.49,16.83,13.97,49.31
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,143.46,14.92,13.02,46.24
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,161.95,14.92,14.92,48.43
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,131.27,13.65,13.65,44.16
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,198.13,19.68,14.6,56.15
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,181.41,21.27,15.87,58.52
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,208.87,22.86,15.24,57.93
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,91.86,11.75,10.16,40.49
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,178.84,17.78,14.29,52.75
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,190.88,17.14,14.92,67.92
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,223.55,19.68,15.87,61.98
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,187.24,15.87,14.92,61.69
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,189.68,17.14,14.6,65.19
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,183.94,21.27,15.24,57.6
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,219.53,22.54,14.92,74.52
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,167.64,19.05,14.6,57.73
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,197.83,17.46,16.19,58.93
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,195.31,20,14.92,64.76
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,304.73,29.52,16.19,82.57
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,189.35,17.14,16.51,63.46
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,153.17,16.51,13.02,62.69
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,347.47,26.35,19.05,77.1
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,186.52,20,13.33,63.46
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,171.26,17.14,14.92,60.67
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,189.08,17.46,14.6,61.07
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,218.77,21.27,15.56,70.81
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,175.22,16.83,13.97,52.88
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,152.52,15.87,13.97,57.68
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,166.77,13.97,18.41,58.11
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,245.14,22.86,14.6,68.56
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,212.55,16.83,17.46,70.72
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,120.23,13.33,12.38,52.53
+NF-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,169.35,16.83,13.97,61.46
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,586.83,29.21,29.52,102.84
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,376.25,23.81,25.4,87.43
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,153.34,14.6,13.33,51.15
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,174.05,16.19,14.92,54.43
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,154.9,18.73,13.33,53.68
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,246.9,20.63,16.19,67.56
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,130.59,17.14,10.48,51.63
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,211.16,18.1,16.51,56.29
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,153.77,13.65,17.14,51.55
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,306.73,22.86,18.41,70.62
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,213.41,17.78,17.46,60.37
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,177.92,15.24,15.56,54.81
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,164.22,17.46,13.33,59.35
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,201.65,20,13.97,57.41
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,201.51,16.51,17.14,59.85
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,143.57,13.65,14.92,51.12
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,235.47,18.73,18.1,64.21
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,94.98,11.75,12.06,41.37
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,111.48,13.02,11.75,44.31
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,133.03,13.33,13.02,44.8
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,183.67,17.78,15.24,56.52
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,152.53,15.87,14.29,52.96
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,206.23,18.73,14.6,57.02
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,198.5,19.68,14.6,59.12
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,170.41,16.19,17.46,58.2
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,178,16.83,14.29,55.35
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,165.89,14.29,15.87,50.27
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,294.42,19.68,20,67.96
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,283.65,22.86,17.78,69.12
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,255.04,17.46,19.37,63.98
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,134.62,13.33,14.29,48.61
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,211.88,20.63,15.56,58.79
+P2X3-594 HuC-488 20x 5 DataTable,Bamboo shark,32,DRG,210.24,17.46,16.83,56.03
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,217.99,17.46,16.19,53.57
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,573.94,28.57,28.25,90.45
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,221.05,14.92,19.68,55.3
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,189.98,17.14,14.92,50.93
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,144.62,15.87,12.38,45.7
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,149.26,13.97,14.92,47.17
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,201.27,19.37,15.24,53.49
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,198.5,16.51,16.51,51.34
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,315.47,22.54,18.41,64.5
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,244.61,17.46,20.95,59.18
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,179,16.83,14.6,50.65
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,164.05,16.83,12.38,47.27
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,188.33,16.51,14.6,49.56
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,282.45,17.14,23.49,62.66
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,211.39,18.73,16.51,53.66
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,300.95,22.86,17.78,64.88
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,142.51,16.19,15.24,47.57
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,183.91,16.83,14.6,49.57
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,188.68,14.92,17.46,50.83
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,165.24,21.59,11.43,52.1
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,390.97,26.98,21.9,80.63
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,196.66,16.83,16.51,52.78
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,165.3,13.97,16.83,48.23
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,132.12,12.7,14.92,42.54
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,234.59,17.78,20,58.19
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,131.22,13.97,14.6,46.2
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,192.11,18.41,14.92,53.07
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,235.06,16.19,21.27,61.57
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,119.61,13.02,16.51,45.77
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,230.45,16.83,22.54,59.63
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,222.05,18.41,20.95,61.46
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,184.2,19.05,17.78,61.12
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,237.4,16.19,19.68,56.41
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,143.88,12.7,13.97,45.54
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,199,20.63,13.65,53.81
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,173.11,14.92,15.87,49.89
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,306.24,19.05,26.67,71.57
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,152.7,14.92,15.24,46.67
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,224.51,21.59,14.92,57.26
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,148.24,17.46,12.7,45.88
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,147.48,16.83,12.7,46.46
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,290.13,25.4,19.05,70.07
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,168.1,19.05,13.97,50.43
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,180.61,20,17.78,57.86
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,184.38,15.87,14.6,49.8
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,151.75,20.32,12.7,53.07
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,201.56,20,17.46,57.87
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,164.05,14.29,15.87,47.3
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,136.96,16.83,12.38,46.02
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,247.22,19.05,18.41,58.86
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,248.66,20.32,16.19,57.15
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,173.77,16.19,13.33,47.83
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,142.91,15.24,13.02,43.75
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,211.89,17.78,17.78,54.18
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,120.71,16.19,13.65,45.17
+Tac1-594 HuC-488 20x 4 DataTable,Bamboo shark,32,DRG,210.05,20,16.19,55.65
+4 tg 26 2 20x 1,Bamboo shark,32,TG,64.18295812,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,130.5898024,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,92.78834956,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,85.6858942,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,72.99428899,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,66.18004683,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,99.57443364,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,77.9127112,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,117.8373948,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,100.830274,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,81.41253873,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,119.2408677,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,79.37896898,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,71.62377973,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,101.2487153,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,44.41353974,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,86.19509816,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,104.8783045,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,124.0512285,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,66.84283058,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,90.62464732,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,105.1117331,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,55.99074663,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,79.28155924,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,91.82930192,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,72.90790776,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,81.94990543,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,59.02760783,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,41.68516694,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,82.30880011,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,85.57166336,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,29.37937792,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,74.54242637,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,46.07229606,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,65.38506894,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,83.87555301,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,77.86882609,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,76.5677469,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,41.10430956,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,41.93907336,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,67.74851723,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,58.68060886,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,63.17397361,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,72.6489084,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,106.5370401,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,44.20371617,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,53.80138446,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,47.09499311,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,35.1010488,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,77.05893993,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,50.36189404,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,118.4426758,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,29.86865729,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,96.38756118,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,66.9678022,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,77.54214445,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,114.307784,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,52.04645537,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,83.32441885,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,80.55513093,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,51.62184756,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,80.6338642,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.88482217,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,35.98995977,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,82.28502739,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,68.26412419,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,117.3126465,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.53420548,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,78.00189226,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,66.82041144,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,32.18227287,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,12.87336099,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,31.71263753,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,25.59068906,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,88.50217563,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,32.8592993,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,24.18220649,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,46.13079919,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,115.4899619,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,79.9500395,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,23.9723831,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,28.03027862,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,35.2007448,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,89.84991316,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,64.46518041,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,33.7116111,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,25.23983577,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,47.53629614,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.76269896,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,68.69454409,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,44.06851611,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.00591916,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,84.7349224,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,47.33959133,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,58.29308495,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,84.12033696,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,52.49879665,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,57.26552728,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,45.72285036,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,33.28850269,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.63845131,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,76.55997289,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,64.70090887,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,51.87504172,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,33.0287574,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,47.36687214,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,81.00046051,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,52.93091574,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,54.15312102,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,70.62621962,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,80.42084779,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,116.7478343,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,35.58609981,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,41.06235735,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,66.86212141,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,115.1462922,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,33.25819099,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,55.00472966,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,64.5384545,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,42.70875246,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,41.87280472,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,49.21037424,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,76.18817388,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,74.01199718,,,
+4 tg 26 2 20x 1,Bamboo shark,32,TG,73.17896399,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,93.07631977,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,40.55134971,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,103.5920148,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,26.62724538,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,102.3239146,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,88.78307654,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,75.95663872,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,63.22569236,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,73.25463268,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,73.02494541,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,57.98587825,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,68.5618611,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,35.97538062,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,34.96052803,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,55.4465224,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,56.11399687,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.68244548,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,49.38457834,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,62.40327433,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,20.15788318,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,19.94833988,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,36.52065253,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,66.03600396,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,31.57636231,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.57018704,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,98.37941909,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,82.8670207,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,71.02825356,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,68.04835311,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,92.54284973,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,70.18203492,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,42.64988549,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,78.62344947,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,96.69515844,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,43.43609865,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,46.98975248,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,68.88923121,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,78.33078962,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,93.97979036,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,73.49810256,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,53.49666936,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,80.18222763,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,38.51977721,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.76992959,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,72.53674353,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,65.11460499,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,69.63811007,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.92123993,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,77.21794642,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,45.39108894,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,58.58701981,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.70193986,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,51.23949368,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,61.4012701,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,65.63657943,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,55.11231457,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,77.65452792,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,34.63132801,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,71.2436641,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,53.42086012,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,70.5269799,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,76.57273637,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,78.2124931,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,59.84061027,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,35.62084216,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,62.63153756,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,60.77233206,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,90.26791407,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,64.21766356,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,55.43631869,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,98.90466462,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,85.2115747,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,84.81245415,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,67.15670602,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,96.37096186,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,63.03501406,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,105.6238665,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,57.35564051,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,50.06583842,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,37.42456493,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,60.3320056,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,73.03902056,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,49.08243331,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,31.71247357,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,47.38585195,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,40.36439706,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,47.88117198,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,33.34463727,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,29.8130407,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,75.0105964,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,41.63018813,,,
+4 tg 26 3 20x 3,Bamboo shark,32,TG,23.67549385,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,108.3687379,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,60.88406759,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,62.41849844,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,86.21923575,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,107.8824466,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,48.06549879,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,36.60507003,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,109.3590227,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,51.16438447,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,75.45768489,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,76.38011973,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,38.81531642,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,33.50786384,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,59.08054645,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,67.45243205,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,64.42805779,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,116.3383615,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,85.56031802,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,76.66591119,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,60.7658356,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,65.2690621,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,88.33772273,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,113.7796978,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,101.9773413,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,99.64374422,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,47.81811988,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,67.49973044,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,60.56999278,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,88.31603397,,,
+tg 1 ngn1-594,Bamboo shark,32,TG,102.8031554,,,
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,123.43,16.51,9.21,42.98
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,198.69,17.46,14.29,51.97
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,92.22,11.43,10.79,35.4
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,78,11.11,9.52,32.39
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,120.63,14.92,10.16,41.08
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,73.9,10.16,9.21,31.14
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,46.92,10.79,6.35,27.5
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,86.85,11.11,9.84,33.91
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,101.27,13.02,10.16,37.92
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,91.95,12.38,9.84,35.23
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,150.71,18.1,10.48,47.27
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,82.21,9.84,12.38,34.81
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,64.51,10.79,7.62,29.41
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,85.16,11.75,9.52,33.74
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,126.35,15.87,10.16,42.04
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,114.39,13.33,12.7,39.54
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,227.61,15.24,19.68,56.1
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,129.13,12.38,13.97,41.28
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,107.11,11.11,11.43,37.46
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,102.66,9.21,15.24,38.26
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,106.87,13.97,9.52,38.26
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,60.34,9.84,8.25,29.18
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,103.3,11.43,11.75,36.85
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,114.02,11.43,11.75,38.68
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,132.08,15.24,12.06,42.54
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,117.66,12.7,12.06,40.01
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,53.7,8.25,8.57,26.51
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,128.2,13.97,12.06,41.43
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,144.21,19.05,11.11,47.69
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,139.98,14.29,13.33,43.31
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,108.08,11.75,12.7,38.49
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,122.81,11.75,13.97,41.17
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,96.83,11.75,10.48,35.96
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,84.36,9.21,11.43,33.81
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,78.7,12.7,8.25,33.99
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,115.32,13.33,11.11,39.72
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,247.58,19.68,17.14,57.62
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,110.01,13.97,10.16,39.4
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,234.65,16.51,18.41,55.73
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,204.51,16.19,18.1,51.9
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,173.93,17.14,14.92,50
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,74.32,10.16,10.79,31.74
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,136.83,13.65,14.29,43.34
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,141.57,17.78,10.79,45.71
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,355.91,31.11,15.56,75.72
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,132.8,16.51,10.48,43.14
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,99.87,10.16,12.38,36.44
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,111.64,12.7,12.7,39.27
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,127.46,14.6,12.06,43.14
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,192.57,15.87,15.56,50.04
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,104.1,12.7,11.11,37.47
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,203.38,18.1,16.51,53.19
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,170.52,14.92,14.92,46.91
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,117.75,12.06,13.65,40.28
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,134.53,14.6,13.33,43.22
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,161.43,15.56,14.92,47.38
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,175.85,14.92,15.56,48.47
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,214.87,21.27,13.33,56.65
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,96.5,13.02,10.48,36.01
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,127.73,13.33,14.92,43.43
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,134.21,16.19,10.16,43.45
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,273.74,18.73,18.41,61.87
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,116.02,14.92,10.79,40.66
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,107.67,13.65,11.11,38.63
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,139.23,15.24,12.38,43.38
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,170.25,16.83,14.29,47.35
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,121.12,13.65,12.7,40.14
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,167.77,13.33,17.14,47.91
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,146.28,12.7,16.83,45.2
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,165.79,16.51,13.33,47.51
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,150.28,15.24,12.7,44.65
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,110.66,13.02,10.48,38.15
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,68.1,13.97,6.67,33.69
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,68.11,11.43,7.62,30.8
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,81.91,11.11,9.21,33.11
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,145.17,13.02,14.6,44.12
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,129.86,16.51,10.48,42.98
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,96.24,12.7,10.48,35.95
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,94.19,13.33,9.84,36.66
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,131.48,15.56,11.11,42.52
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,119.96,15.56,10.16,41.58
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,111.8,11.75,12.38,38.3
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,67.59,9.21,10.16,30.03
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,36.8,7.3,6.98,22.18
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,156.94,13.33,15.56,45.52
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,176.52,19.37,12.06,50.69
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,149.97,15.24,13.65,44.55
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,109.28,10.79,13.33,38.22
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,155.13,15.87,13.02,46.18
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,80.85,13.02,8.57,34.08
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,107.64,12.38,11.11,37.76
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,149.69,14.6,12.7,44.26
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,61.87,9.52,8.89,28.78
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,49.61,8.89,7.94,26.02
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,52.22,8.25,8.57,26.35
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,115.15,15.24,11.75,41.76
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,103.16,11.75,11.11,36.79
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,98.51,13.97,9.52,36.89
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,55.64,8.57,9.84,27.61
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,60.24,13.33,6.03,32
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,71.95,9.52,10.79,31.14
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,126.63,16.19,12.06,44.64
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,127.78,14.29,12.7,43.15
+P2X3-594 ISL1-488 20x 1,Bamboo shark,Pre-hatch,DRG,63.8,14.6,6.98,34.66
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,140.79,13.65,14.92,43.26
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,94.73,10.79,12.06,35.13
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,111.36,13.33,11.11,38.39
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,101.08,13.02,11.11,36.49
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,124.4,12.06,13.02,40.37
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,130.69,13.02,13.02,41.43
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,106.02,11.11,12.7,37.4
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,157.06,13.65,15.56,45.46
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,329.98,26.03,17.78,67.64
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,192.52,25.08,22.54,71.51
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,130.26,13.97,13.02,42.41
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,176.3,14.92,16.19,50.18
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,131.1,13.97,13.33,42.25
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,144.96,14.6,13.33,43.99
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,178.9,17.46,14.29,49.77
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,152.24,15.87,11.75,45.69
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,109.66,12.7,12.06,38.28
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,58.31,9.52,7.94,27.89
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,127.37,12.06,14.29,41.07
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,81.3,10.16,10.79,33.17
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,85.52,12.06,8.89,34.2
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,112.79,13.65,11.43,38.79
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,134.18,13.97,13.33,42.97
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,113.36,12.7,12.38,39.34
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,144.18,13.97,14.29,44.7
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,138.5,15.56,13.33,45.02
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,122.01,11.75,15.24,41.28
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,112.15,14.6,10.48,39.22
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,138.24,18.41,11.11,45.96
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,185.13,14.29,17.14,49.74
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,105.86,17.14,9.52,41.85
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,116.7,10.79,15.56,41.04
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,152.17,13.97,15.56,46.26
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,121.4,14.6,11.11,40.41
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,168.06,18.41,13.65,48.67
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,77.92,10.48,10.16,32.19
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,159.15,18.1,13.02,49.1
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,203.23,16.83,17.14,52.4
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,157.76,14.6,13.97,45.79
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,178.13,17.14,13.97,48.55
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,154.2,17.46,10.79,46.63
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,183.57,14.92,17.14,49.42
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,169.16,15.24,15.24,49.18
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,87.85,12.7,10.16,34.82
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,168.12,15.24,16.83,51.75
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,165.8,13.65,17.46,47.67
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,112.56,12.38,14.29,40.8
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,91.83,12.06,10.79,35.21
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,59.93,8.57,9.84,28.62
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,144.92,15.56,12.7,44.6
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,133.1,14.6,13.65,43.12
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,213.75,18.73,15.87,53.74
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,165.74,16.51,14.92,48.8
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,43.09,7.3,8.57,24.91
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,140.33,16.83,13.33,46.55
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,228.36,18.1,17.46,56.59
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,156.05,14.6,14.6,45.09
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,186.17,13.65,19.05,51.45
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,136.56,13.33,13.65,42.58
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,218.67,18.73,15.56,53.49
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,163.62,20.32,12.7,50.73
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,125.63,14.92,11.11,41.15
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,142.9,13.97,17.46,47.28
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,117.23,14.92,13.65,43.24
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,116.6,12.38,13.02,39.52
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,153.47,14.92,13.97,45.03
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,131.4,14.92,11.75,41.96
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,193.85,17.14,13.65,51.46
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,136.37,17.46,10.79,46.3
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,128.58,15.87,10.48,42.45
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,124.11,13.65,12.7,41.4
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,124.22,17.46,9.52,43.9
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,156.62,17.14,11.43,46.16
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,253.07,20.32,17.78,59.03
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,218.45,19.37,14.29,54
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,110.74,16.19,9.52,40.84
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,97.51,11.43,14.6,38.97
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,33.07,6.98,5.4,21.36
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,84.8,12.38,9.21,33.92
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,144.3,15.24,12.7,43.4
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,164.3,13.65,15.87,46.31
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,94.68,15.56,8.25,38.58
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,140.8,13.65,16.19,45.93
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,170.01,14.29,18.1,50.05
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,62.19,10.16,8.25,28.74
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,43.16,6.67,8.89,24.65
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,52.77,10.16,6.98,27.23
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,78.76,9.84,10.79,32.04
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,99.73,11.43,12.7,36.9
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,18.09,5.4,4.44,16.08
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,30.64,6.67,6.35,20.28
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,21.56,6.98,5.08,18.25
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,19.05,7.3,3.81,18.31
+AceTub-488 P2X3-594 20x 2 ,Cat shark,Pre-hatch,DRG,18.52,4.76,4.44,16.01
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,675.96,33.02,31.43,104.12
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,198.3,13.97,20,52.89
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,211.22,15.56,17.78,52.32
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,225.45,17.14,17.14,54.13
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,302.15,21.27,18.41,62.73
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,240.27,20.95,15.56,58.87
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,85.55,11.43,10.48,33.59
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,177.92,16.83,13.97,48.72
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,213.64,20.32,13.65,55.24
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,158.93,13.65,15.87,45.6
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,38.17,9.84,6.98,25.35
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,30.19,6.35,6.35,20.61
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,84.7,10.16,10.48,33.54
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,210.12,15.24,19.37,54.2
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,276.67,17.78,20,59.68
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,77.4,9.84,11.11,32.5
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,192.68,15.87,16.19,49.97
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,337.32,18.73,28.57,73.92
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,232.14,17.14,18.41,55.57
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,421.62,26.03,22.86,75.07
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,258,19.37,19.05,61.83
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,148.14,13.65,15.56,45.2
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,405.82,28.25,20.95,80.25
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,227.96,18.73,15.56,54.82
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,287.12,19.37,19.37,60.98
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,203.9,17.46,17.14,54.28
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,242.89,19.68,16.83,58.05
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,308.28,20.63,23.17,66.5
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,275.08,20.63,19.05,61.2
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,308.77,22.86,19.68,64.73
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,178.75,19.05,12.38,50.68
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,307.06,20.63,20.32,62.85
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,221.84,17.78,16.51,53.65
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,243.2,18.41,17.14,55.87
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,289.45,21.59,18.73,63.34
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,255.71,17.78,21.9,62.62
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,605.79,30.16,27.3,95.59
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,357.25,21.9,22.86,69.67
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,195.62,18.1,16.51,52.65
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,463.93,34.6,20.63,88.7
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,63.8,9.21,9.21,29.85
+AceTub-633 MBP-594 NF-488 20x 3 ,Cat shark,Pre-hatch,DRG,239.9,16.19,19.68,57.28
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,126.47,14.29,11.75,41.12
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,132.7,14.29,12.7,41.82
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,142.95,15.56,12.7,43.57
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,38.87,8.57,5.71,23.13
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,133.16,13.02,14.6,41.78
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,79.92,10.16,13.02,35.35
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,79.04,14.29,8.57,36.04
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,121.13,11.11,14.6,40.92
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,112.48,13.97,10.48,39.33
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,114.68,14.6,11.11,40.2
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,126.48,15.56,10.16,42.55
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,128.52,14.6,12.06,41.49
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,128.97,12.06,14.29,41.71
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,115.24,12.06,13.33,39.71
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,85.55,9.84,12.06,34
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,32.2,6.98,6.35,21.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,167.88,15.56,13.97,46.92
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,157.26,14.29,14.6,45.93
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,123.61,16.83,10.16,43.36
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,115.25,14.6,11.43,40.41
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,180.17,15.24,15.56,48.14
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,84.61,12.06,9.52,34.01
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,137.35,15.24,12.06,42.76
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,165.47,15.56,13.33,46.53
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,174.65,15.87,14.92,47.9
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,86.34,11.11,10.79,34.14
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,175.89,14.29,16.19,47.52
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,201.13,21.9,12.7,54.32
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,105.95,13.33,11.11,38.44
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,170.65,17.46,13.02,47.88
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,109.22,12.7,11.75,38.23
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,45.94,7.62,8.89,25.93
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,81.15,10.16,10.48,32.74
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,145.03,13.33,15.24,44.89
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,163.7,16.83,11.75,47.32
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,136.01,12.38,14.92,43.14
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,150.69,15.87,14.6,47.86
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,147.38,15.24,13.33,44.33
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,228.23,20.32,15.87,55.49
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,198.5,19.37,13.33,53.13
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,61.16,10.48,8.57,29.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,73.85,13.02,7.62,33.69
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,104.81,13.65,10.79,38.18
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,160.1,14.29,14.6,45.42
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,136.44,15.24,11.75,42.16
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,207.82,19.37,13.97,53.35
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,112.05,13.97,11.43,39.29
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,115.3,12.06,13.02,39.46
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,94.33,11.43,11.75,35.05
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,186.69,15.56,15.24,49.01
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,112.32,11.11,12.7,38.34
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,136.65,13.33,12.7,42.27
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,119.59,12.7,12.38,39.91
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,89.19,9.84,13.33,35.48
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,137.82,14.6,13.02,43.1
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,89.35,10.16,12.38,34.79
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,67.56,12.7,6.98,31.87
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,131.05,14.92,10.79,42.18
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,153.08,17.14,11.43,46.04
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,133.67,14.6,12.38,42.46
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,236.78,18.73,16.19,55.39
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,247.28,18.41,17.46,56.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,73.41,10.48,9.21,31.2
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,127.93,14.6,11.11,41.28
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,102.05,13.97,11.75,38.79
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,160.64,14.6,14.6,45.5
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,149.63,17.46,11.75,45.77
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,50.35,9.52,7.3,26.38
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,142.61,14.29,13.02,43.23
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,138.55,12.06,15.24,42.83
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,180.75,15.56,14.92,48.08
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,164.49,14.29,14.92,45.78
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,184.87,16.83,15.87,49.58
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,211.54,17.46,16.51,53.26
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,123.89,13.33,12.06,40.45
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,96.2,12.7,11.11,36.93
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,100.84,15.24,8.89,39
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,140.24,15.87,11.75,43.33
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,173.18,15.56,13.97,47.76
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,136.52,15.87,11.75,43.3
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,151.22,19.05,10.79,47.45
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,138.19,19.37,9.84,47.42
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,136.51,16.19,11.43,44.61
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,92,15.87,7.94,38.15
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,200.09,20.32,13.33,53.41
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,275.53,22.86,15.24,62.87
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,110.28,12.06,12.06,38.04
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,71.95,11.75,8.25,32.06
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,180.87,22.86,11.11,56.62
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,111.4,13.65,11.11,38.49
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,120.09,16.19,11.75,42.66
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,121.42,14.29,12.06,40.35
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,137.73,14.92,12.7,42.86
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,339.42,28.25,14.92,70.99
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,245.75,18.1,18.1,56.24
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,253.54,19.37,17.78,57.62
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,187.38,18.1,13.02,50.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,190.07,17.46,13.02,50.3
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,134.93,13.65,12.7,42.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,230.2,19.68,15.56,56.17
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,177.98,14.92,14.92,47.82
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,183.85,16.83,13.97,49.02
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,157.64,15.87,13.65,46.36
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,181.53,13.97,18.1,50.08
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,108.14,15.24,9.84,40.26
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,222.59,21.59,13.65,55.61
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,245.9,17.14,19.05,57.74
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,262.97,22.86,17.14,61.83
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,123.33,14.29,10.79,40.73
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,168.11,16.19,14.6,47.48
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,165.66,16.51,13.02,46.98
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,186.74,15.56,16.51,49.56
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,218.32,22.22,12.7,57.58
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,159.55,14.29,15.24,45.94
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,164.64,12.38,16.83,47.46
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,164.71,14.92,14.6,46.67
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,109.07,13.97,10.79,38.29
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,198.78,17.78,14.92,50.92
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,106.14,12.06,11.75,37.09
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,58.14,13.02,6.03,31.35
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,107.74,14.6,10.48,38.42
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,121.6,11.75,13.65,39.93
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,162.7,16.51,13.97,46.76
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,113.49,14.92,10.79,41.97
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,157.64,14.92,13.33,45.44
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,12.96,2.86,5.71,14.7
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,65.93,10.16,8.57,29.48
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,79.47,10.48,10.48,32.13
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,83.49,12.38,10.16,35.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,32.56,5.4,8.25,21.58
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,113.86,15.24,10.16,40.01
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,87.96,19.68,7.62,44.87
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,106.7,13.97,10.79,38.73
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,68.79,10.79,8.89,31.22
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,76.73,13.65,7.3,34.23
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,48.86,8.89,7.3,25.41
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,119.11,14.29,11.43,39.97
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,57.97,9.84,7.62,27.88
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,127.14,14.6,12.38,41.37
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,165.4,13.33,16.19,46.96
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,107.58,11.75,11.75,37.48
+AcetylTub-647 MBP-594 NF-488 20x,Cat shark,Pre-hatch,DRG,38.82,8.89,6.67,23.79
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,129.18,11.75,14.6,41.38
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,50.57,9.21,8.25,26.38
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,64.81,11.75,8.89,31.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,131.94,13.65,14.29,42.19
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,289.65,22.22,16.19,62.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,148.64,15.24,12.06,44.49
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,141.85,14.92,12.06,43.71
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,112.67,11.75,12.38,38.9
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,56.1,7.94,9.21,27.45
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,90.84,12.7,9.84,35.07
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,118.28,13.02,14.29,40.69
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,48.87,9.84,6.98,27.52
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,262.24,18.1,19.37,59.19
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,231.28,15.56,19.05,55.77
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,289.92,18.73,20.63,61.32
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,59.78,7.62,10.16,28.45
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,157.04,14.29,13.33,45.33
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,58.67,8.89,8.89,28.12
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,37.67,6.35,7.94,22.64
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,42.78,6.98,10.79,27.89
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,69.08,12.38,7.94,31.29
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,71.51,8.25,10.79,31.35
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,54.24,8.25,8.89,26.92
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,31.06,7.3,6.03,21.22
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,99.12,12.38,10.79,36.77
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,161.89,14.6,15.24,45.72
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,180.2,17.46,14.29,48.84
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,134.47,15.24,11.11,42.96
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,182.72,14.29,16.83,49.08
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,143.86,12.38,15.24,44.43
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,119.83,13.33,11.11,40
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,227.19,18.41,14.92,54.62
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,148.55,15.56,13.02,44.28
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,103.47,12.38,11.75,36.94
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,318.42,21.27,20,64.9
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,239.53,19.05,16.19,56.28
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,245.29,21.59,13.97,58.23
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,125,13.33,11.43,41.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,160.76,14.92,15.24,46.81
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,75.78,9.21,10.79,31.86
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,109.84,12.06,12.38,37.72
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,106.35,13.97,11.11,38.14
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,81.5,9.84,11.75,33.56
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,148.05,16.51,12.38,44.78
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,130.56,13.97,12.06,41.91
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,163.86,15.56,13.02,46.36
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,116.11,12.06,13.65,41.12
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,160.99,15.24,13.97,46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,106.7,13.02,11.11,38.29
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,162.15,16.19,14.29,47.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,209.56,17.46,15.87,52.93
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,55.41,7.3,10.48,28.23
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,45.22,5.71,11.43,27.43
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,84.18,10.48,10.79,33.16
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,155.44,13.65,15.24,45.03
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,42.38,9.21,6.03,24.44
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,140.48,10.16,18.1,46.1
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,78.52,10.48,10.48,33.13
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,114.45,11.11,14.6,40.48
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,60.08,9.52,8.89,28.25
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,97.34,13.33,10.16,37.41
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,91.97,8.25,14.29,36.74
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,97.4,12.7,11.75,37.01
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,47.11,8.57,7.62,24.89
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,120.75,13.97,12.38,40
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,51.73,9.21,7.94,26.36
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,41.99,6.98,8.89,24.61
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,52.71,8.25,8.89,26.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,51.97,9.52,7.3,26.64
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,10.58,3.49,4.13,12.08
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,21.42,6.35,4.44,17.41
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,44.29,8.57,6.67,24.53
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,70.44,12.38,10.48,34.47
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,50.56,9.84,6.67,27.12
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,54.29,8.57,8.25,27.02
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,32.19,6.35,6.67,20.89
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,17.41,3.49,6.98,17.01
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,38.96,6.98,7.62,22.9
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,59.86,7.94,9.84,28.14
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,23.7,5.71,6.98,18.74
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,37,7.3,7.3,22.65
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,63.4,10.48,8.25,29.48
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,231.62,16.83,19.37,55.35
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,43.19,6.67,8.89,24.15
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,125.83,13.02,13.33,41.57
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,73.19,8.89,12.06,32.77
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,53.43,9.52,7.62,27.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,69.09,10.48,10.16,31.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,47.88,6.98,9.21,25.53
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,81.7,10.48,11.11,33.13
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,147.34,13.65,15.24,44.59
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,39.62,7.62,7.3,23.06
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,52.05,8.57,8.25,26.51
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,72.1,11.11,9.21,32.34
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,98.62,13.02,10.48,36.73
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,75.64,11.75,9.84,31.96
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,141.71,14.92,13.97,44.48
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,198.39,16.83,15.87,51.17
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,111.58,12.06,11.75,38.17
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,33.4,6.67,6.98,21.1
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,112.34,16.51,9.84,41.65
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,53.55,10.16,6.98,27.22
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,73.99,9.52,11.11,32.1
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,52.95,7.94,8.57,26.43
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,173.1,16.51,13.33,47.88
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,81.03,12.06,10.79,35.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,117.34,12.7,12.38,39.2
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,80.88,12.06,8.57,33.44
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,36.53,6.35,7.94,22.56
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,145.84,18.1,12.06,47.66
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,193.65,19.05,13.65,52.56
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,129,13.33,13.33,41.16
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,97.86,11.11,12.38,36.43
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,259.23,17.46,20.32,58.97
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,45.31,8.25,7.94,24.89
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,26.95,6.03,6.35,19.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,95.48,11.11,11.43,35.19
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,128.22,12.06,14.92,42.11
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,30.37,5.71,7.62,21.07
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,67.49,7.3,13.02,32.34
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,285.94,21.59,18.41,63.33
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,121.22,11.11,16.83,44.23
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,94.53,12.38,10.79,35.9
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,85.25,11.11,13.33,36.78
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,57.31,8.89,8.89,28.01
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,72.53,8.89,10.16,30.85
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,153.08,14.29,14.6,46.05
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,123.29,11.11,15.87,41.87
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,45.82,7.3,8.57,24.88
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,83.93,13.33,8.57,34.65
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,40.12,7.62,6.98,23.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,170.45,14.92,15.24,47
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,150.93,15.87,11.75,45.55
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,112.3,14.92,10.16,39.49
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,158.55,15.87,12.7,45.89
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,142.82,13.65,14.29,43.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,186.55,13.97,18.41,50.02
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,161.27,14.29,14.29,45.9
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,93.99,14.29,9.21,36.78
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,81.49,9.21,12.7,33.68
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,193.28,23.49,11.75,56.67
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,214.23,20.32,14.29,55.12
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,185.13,15.24,16.83,50.32
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,337.16,24.13,18.41,67.32
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,60.99,11.43,7.62,29.64
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,49.6,11.75,6.35,28.39
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,118.17,14.29,11.43,39.71
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,47.05,8.89,7.3,25.56
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,52.62,7.94,8.57,26.36
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,52.07,6.98,10.16,26.78
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,47.23,9.52,6.67,26.26
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,84.01,11.75,9.52,33.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,49.72,8.89,7.94,26.64
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,55.59,8.89,8.25,27.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,51.93,9.21,7.94,26.71
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,37.1,7.3,7.94,23.7
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,107.41,11.11,13.33,37.83
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,79.12,8.57,11.43,32.6
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,151.98,16.51,12.7,46.49
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,135.24,13.33,13.65,42.41
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,95.6,12.7,10.48,36
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,92.02,12.7,9.84,35.62
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,81.57,12.38,9.21,34.07
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,115.78,12.7,11.75,38.79
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,58.97,10.48,7.94,28.82
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,94.46,13.33,9.21,35.77
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,117.13,13.02,11.75,39.13
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,222.05,21.9,13.97,56.11
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,42.34,8.57,6.67,24.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,65.05,11.11,8.57,30.59
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,43.74,10.16,5.71,25.37
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,29.07,7.94,5.4,20.93
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,105.62,13.97,12.06,40.21
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,67.2,10.79,8.89,31.26
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,117.07,11.11,13.97,39.41
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,181.68,15.56,15.87,48.37
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,36.22,5.71,7.94,22.25
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,64.57,9.52,8.57,28.86
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,219.55,21.59,13.02,55.74
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,26.8,6.35,6.03,19.28
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,17.98,8.57,3.49,18.99
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,100.59,13.65,10.48,36.85
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,158.89,13.65,15.87,46.65
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,72.97,9.21,11.11,31.58
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,39.79,7.3,7.3,23.14
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,34.86,7.62,6.67,22.15
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,35.95,6.67,7.94,22.46
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,53.79,10.79,7.3,28.09
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,62.15,12.06,8.25,31.63
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,82.99,12.06,9.52,33.44
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,36.28,6.98,6.98,22.11
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,49,9.52,7.62,26.65
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,47.53,7.94,7.94,26.04
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,29.85,6.03,6.67,20.38
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,87.59,13.33,9.52,36.23
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,102.86,13.02,10.16,36.92
+P2X3-488 AceTub-594 20x 2a,Bamboo shark,Pre-hatch,TG,83.71,10.16,11.43,33.15
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,42.86,7.3,8.25,24.08
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,70.18,11.43,9.21,30.74
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,74.25,8.89,10.79,31.64
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.65,8.25,8.25,25.73
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,68.77,8.89,10.16,30.56
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,101.43,9.52,14.6,38.79
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,58.7,12.06,7.62,30.89
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.4,10.79,7.94,29.67
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,56.95,9.84,9.21,29.69
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.91,9.84,8.57,27.56
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.11,7.62,7.3,23.39
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,64.08,8.89,9.52,29.83
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,21.08,5.08,6.03,17.29
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,65.79,10.79,8.57,30.51
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.9,6.35,7.62,21.8
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.85,5.71,6.03,17.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,18.92,5.71,4.13,16.92
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.89,6.35,6.03,18.99
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.59,5.71,6.67,18.39
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,21.04,5.4,6.03,17.31
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.08,4.44,7.62,19.29
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,63.18,8.89,9.84,29.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.64,5.71,6.03,17.91
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,25.85,5.4,6.35,19.11
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,83.25,8.89,13.02,34.79
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,48.36,9.21,7.94,26.91
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,104.34,13.97,9.84,38.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,98.39,9.84,13.97,37.68
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,90.08,8.57,13.65,36.17
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,56.43,8.57,9.52,28.24
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,27.23,7.3,6.03,19.67
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,101.84,12.06,13.33,40.46
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,29.6,6.35,6.35,19.77
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,24.66,6.03,5.71,18.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,65.25,9.84,9.21,29.95
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,39.47,7.62,6.67,23.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,51.14,10.16,7.62,27.4
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,35.34,6.98,6.67,21.53
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,27.02,6.98,6.03,19.15
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,28.34,6.35,6.35,19.63
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.38,5.08,6.35,17.83
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.54,6.03,8.25,21.11
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.27,7.3,6.03,21.96
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,30.29,8.57,4.44,21.26
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,19.54,4.76,5.4,16.14
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,28.14,7.62,5.08,20.48
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,69.54,10.48,8.89,32.12
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,80.78,11.75,11.43,35.52
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.15,9.84,9.21,28.16
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,25.52,6.03,6.35,18.92
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,56.19,8.57,8.89,27.95
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.79,6.35,5.71,19.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.13,6.98,6.98,21.61
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,29.26,6.67,6.67,20.89
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,36.69,7.62,7.3,22.55
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,98.43,12.06,11.11,36.16
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.24,5.4,7.3,19.5
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,37.18,6.98,7.62,22.74
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,25.51,6.03,5.71,18.35
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,42.82,6.98,8.57,25.07
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,59.78,10.48,7.62,28.53
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,57.39,10.79,7.94,29.94
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,68.24,10.16,9.21,30.76
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,23.24,5.71,5.08,17.55
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.16,9.21,7.62,26.05
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,83.21,13.97,9.52,35.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.41,6.03,8.25,22.53
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,51.62,9.52,7.94,26.79
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,48.94,10.16,8.89,28.51
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.41,6.67,8.25,23.6
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,61.6,7.3,14.29,34.06
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.02,7.3,8.89,25.75
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,30.55,6.98,8.25,22.25
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,42.12,6.35,9.52,25.6
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,61.36,8.25,10.16,29.15
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,57.46,9.21,8.25,28.14
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.55,7.62,5.71,21.68
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,81.43,11.43,11.43,35.17
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,37.3,9.21,5.71,23.19
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.06,8.89,5.71,23.96
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,46.73,8.57,8.57,25.76
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,76.15,16.51,6.35,37.35
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.7,8.89,8.25,27.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,91.42,9.84,13.02,35.65
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,58.22,8.57,9.52,27.95
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.16,7.62,6.67,22.12
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,79.09,10.48,10.79,33.13
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.92,7.94,7.62,23.86
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.37,8.25,7.94,25.6
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,120.28,13.02,13.02,43.03
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.6,6.98,6.35,20.21
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,30.77,7.3,5.4,20.81
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.56,5.08,5.71,17.41
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,46.06,7.62,8.25,24.94
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,19.99,5.71,4.76,16.48
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,71.08,10.79,8.57,31.64
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,42.62,6.67,8.89,24.56
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.4,6.35,6.98,21.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.04,6.98,5.71,20.41
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.89,6.98,9.21,26.34
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.64,5.4,5.08,16.57
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.91,7.3,10.79,29.41
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,61.59,8.25,10.16,28.58
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,51.36,9.52,8.89,27.91
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,18.29,5.08,5.4,15.75
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.31,7.3,7.3,23.51
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,37.51,6.98,8.25,22.75
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,13.6,5.4,3.49,13.98
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,104.26,12.7,11.43,37.35
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,66.5,11.75,7.94,30.45
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,65.08,12.06,7.94,31.31
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,50.75,8.25,7.94,26.04
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53,10.16,7.94,28.13
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.87,10.79,6.98,27.59
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,19.15,5.08,5.4,16.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,25.57,5.71,5.4,18.31
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.41,6.03,7.62,21.2
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.35,10.16,6.98,26.75
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,62.15,12.06,7.3,31.18
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,45.65,11.11,5.71,27.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,78.46,9.52,14.6,36.51
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,64.17,10.16,14.92,37.74
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.62,9.21,10.16,30.21
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.46,8.57,8.57,26.15
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.21,8.57,7.62,25
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.49,7.94,6.35,21.7
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,48.52,6.67,10.16,26.82
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.61,4.44,6.03,16.67
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,33.88,5.4,8.25,21.96
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.75,7.94,5.71,21.52
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,41.03,8.57,6.35,24.36
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,33.69,7.94,6.67,21.66
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.2,6.35,5.71,18.9
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,21.48,5.71,5.4,17.21
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.42,8.89,7.62,24.93
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.25,6.67,10.48,26.64
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.13,7.62,9.21,27.25
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,57.95,9.84,8.25,28.26
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,42.03,6.35,10.79,27.48
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,43.06,7.94,7.62,24.46
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,70.99,10.16,9.52,30.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.76,10.48,5.4,25.98
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,59.19,10.48,7.3,28.6
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,23.66,7.62,4.13,19.3
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,34.4,5.4,9.52,23.06
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,39.09,9.52,5.4,24.71
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,33.34,6.67,6.67,21.11
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,61.95,9.52,11.43,31.63
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,14.12,4.76,4.76,14.39
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.41,10.48,10.16,30.55
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,6.35,2.86,2.54,9.3
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,24.75,6.03,5.71,18.34
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.77,5.4,5.71,17.44
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,21.88,5.08,6.03,17.39
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,23.45,6.98,4.44,18.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,56.6,7.94,10.48,29.8
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,75.09,12.38,9.52,33.24
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,43.31,7.94,6.98,24.46
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,70.98,11.75,9.84,32.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.62,5.4,6.35,18.18
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,25.47,6.35,6.03,18.98
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,68.81,9.84,9.52,30.62
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.99,8.25,9.52,26.87
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,52.23,7.94,9.84,27.82
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.88,7.62,10.48,27.04
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,19.07,6.03,6.35,18.31
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.38,10.48,6.03,25.82
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.45,6.98,6.67,22.6
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.96,5.71,8.25,21.76
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,29.76,7.62,5.08,20.96
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,52.97,7.94,9.84,28.09
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,35.53,6.98,7.94,23.07
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,54.5,8.89,7.62,26.85
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,75.38,8.25,13.02,33.23
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,41.37,8.89,6.67,24.26
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,30.84,6.03,6.98,20.56
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.36,5.4,5.71,17.27
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,24.58,6.35,6.35,19.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,53.47,6.67,11.43,28.82
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,51.69,11.11,6.35,28.06
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,68.85,10.48,11.43,32.63
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.42,7.3,10.48,27.77
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,13.05,5.08,3.81,13.79
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,48.76,8.25,8.25,25.46
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,43.1,6.98,7.94,24.12
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.27,14.6,5.71,32.81
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,89.03,13.02,10.79,37.24
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.96,7.62,9.21,26.1
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,28.91,6.03,7.3,20.23
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,49.09,9.52,6.98,25.99
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,58.61,8.89,8.57,27.85
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,36.36,6.35,7.3,22.22
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,46.8,7.94,7.94,25.02
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,107.65,14.29,9.84,38.84
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,88.48,11.75,10.48,34.57
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,41.62,10.48,5.4,25.89
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.9,7.94,5.08,20.92
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,75.72,10.16,10.16,31.61
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,21.63,4.44,6.98,17.99
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.4,6.67,6.35,20.84
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.12,4.76,6.98,17.72
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,31.64,6.67,7.3,21.59
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.62,7.62,8.89,26.21
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,79.11,9.52,13.02,34.65
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,72.39,13.33,8.57,34.83
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,59.14,11.75,6.35,29.45
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,39.38,8.89,6.35,23.91
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,37.88,7.3,8.57,23.94
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,65.58,11.75,8.89,32.17
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.92,10.16,8.25,28.33
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,89.98,11.43,10.48,35.36
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.66,8.57,7.3,25.12
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,18.81,5.4,4.76,16.02
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,19.27,4.76,5.4,16.13
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,36.79,9.21,9.52,27.38
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,16.31,4.44,4.76,14.91
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,9.52,3.49,4.76,12.53
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,78.03,10.79,13.02,35.97
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,50.47,8.57,10.16,28.44
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,36.24,6.98,8.57,24.84
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,107.93,12.38,12.7,39.03
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,68.59,8.57,11.11,30.57
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,92.17,12.06,10.48,35.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,40.72,8.25,9.52,26.84
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,65.27,12.38,7.62,32.57
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,67.28,11.11,9.21,31.74
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,32.89,9.21,4.76,22.95
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.52,8.25,8.25,24.67
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,41.82,9.84,9.21,27.83
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,33.38,7.62,6.98,22.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,45.56,6.67,9.21,25.2
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.59,5.71,6.35,20.12
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,16.23,4.13,5.08,15.61
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,17.89,4.44,5.71,15.48
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,27.36,5.71,6.67,19.5
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,59.35,8.25,10.79,29.37
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,54.18,13.33,5.4,31
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,22.04,7.3,4.13,18.25
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.57,6.03,4.76,16.9
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,78.22,8.57,13.65,34.42
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,26.89,6.35,6.03,19.01
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,14.59,5.08,4.44,14.34
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,56.8,9.84,10.16,29.61
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,47.94,6.98,9.21,25.59
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,29.43,7.3,5.71,20.32
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,29.55,6.67,6.67,20.71
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,73.22,10.48,9.84,31.06
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,111.7,12.06,13.65,38.68
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,44.26,6.98,9.21,25.61
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,76.36,10.16,10.16,31.79
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,20.63,4.76,5.71,16.89
+P2x3-594 HNK1-488 20x 1,Bamboo shark,Pre-hatch,TG,55.33,8.89,8.25,26.96
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,18.86,4.44,6.03,16.56
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,19.82,4.44,6.03,16.49
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,20.06,5.71,4.76,16.37
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,34.43,8.25,7.62,24.57
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,26.96,8.25,4.44,20.13
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.3,6.98,6.03,20.31
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,24.55,6.35,6.35,19.54
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,22.74,8.25,5.4,20.99
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,15.2,5.71,3.81,14.88
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,23.76,6.35,5.08,18.34
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,10.73,3.81,3.81,12.49
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,15.06,4.76,4.44,14.31
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,75.53,11.75,10.16,33.19
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,55.06,8.89,8.57,27.67
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,47.42,6.67,8.89,25.75
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,75.78,9.84,10.48,32.77
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,60.49,11.43,6.98,29.22
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,80.44,13.65,7.94,34.97
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,92.94,14.92,8.25,37.49
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.12,9.84,6.35,25.12
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,32.34,6.67,7.62,22.21
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,38.6,9.21,5.71,23.98
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,62.84,10.79,7.94,29.76
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,55.55,8.57,9.21,27.26
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,22.17,8.25,3.49,19.73
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,58.67,12.7,6.35,30.74
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,67.65,10.16,9.21,29.89
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,80,11.43,9.52,32.97
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,33.84,7.62,6.35,21.33
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,38.09,8.25,5.71,23.09
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.97,8.25,6.98,23.35
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,24.04,5.71,5.4,18.07
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,51.43,9.52,7.3,26.48
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,19.75,4.44,6.03,16.67
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,32.39,6.03,7.3,20.79
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,28.48,6.35,5.71,19.58
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,25.01,6.03,6.35,18.89
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,11.67,4.13,3.81,12.46
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,30.48,8.89,4.44,21.73
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,19.32,6.03,5.08,16.46
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,33.23,6.67,7.3,21.83
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.31,7.94,6.03,22.77
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,27.19,8.25,5.4,20.26
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,43.14,9.52,6.35,25.26
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,28.33,6.98,5.71,20.15
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,29.19,6.03,6.35,19.79
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,78.9,10.16,10.16,32.08
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,67.78,13.02,7.3,33.17
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,34.22,6.67,6.98,21.2
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,21.42,5.4,5.08,17.01
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,35.75,6.35,7.62,22.02
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,42.74,6.35,9.21,24.35
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,63.88,8.25,10.79,29.92
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.1,7.3,8.57,24.69
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,69.49,8.57,11.43,30.76
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,54.3,9.52,8.25,26.91
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,76.1,10.16,11.11,32
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,55.32,11.43,6.35,28.78
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,49.57,6.98,8.89,25.97
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,72.21,10.48,9.52,30.98
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.13,6.67,6.67,20.59
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,26.73,8.25,4.76,20.5
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.55,9.84,6.35,25.41
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,35.24,8.57,5.71,22.35
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,35.44,6.98,6.98,22.56
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,45.94,9.84,6.98,27.28
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,34.66,6.98,6.67,21.43
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,28.6,7.3,5.71,20.23
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,33.7,6.98,6.67,21.7
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,20.37,4.76,6.03,16.83
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,62.58,8.89,10.16,29.71
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.32,7.3,7.62,23.13
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,102.64,15.24,9.21,39.3
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.77,8.89,7.94,25.17
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,76.92,12.7,7.3,33.26
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,63.14,9.21,9.52,29.94
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,27.54,6.98,6.67,20.83
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,47.31,10.16,6.67,26.04
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,48.21,8.57,7.94,25.77
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.42,7.94,8.25,24.85
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,34.98,7.94,6.35,21.99
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,47.95,13.65,5.08,30.93
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,52.04,7.94,9.21,27.31
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,43.13,9.21,6.67,25.15
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.94,6.35,6.35,20.6
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.89,6.03,8.57,23.34
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,73.53,10.16,11.11,33.46
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,70.7,12.06,10.16,34.34
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,35.95,9.52,5.08,23.74
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,91.75,13.65,9.21,35.6
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,60.29,9.84,10.79,31.41
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,55.83,13.65,7.3,33.33
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,76.73,15.24,8.57,36.94
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,118.58,14.92,10.48,40.49
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,106.64,11.43,13.02,37.96
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,38.37,6.67,7.3,22.84
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,52.01,10.16,6.98,26.76
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,29.07,6.67,5.71,19.83
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.17,7.3,7.62,22.99
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,32.37,8.25,5.71,21.53
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,45.01,7.94,7.94,24.74
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,59.31,14.92,5.4,33.94
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,55.14,9.52,7.94,27.5
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,32.56,6.03,6.98,20.71
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,38.55,7.62,6.67,22.99
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.08,7.3,6.03,20.97
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.05,6.98,6.67,21.27
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.83,8.25,8.25,25.69
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,28.24,6.67,5.4,19.58
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,33.61,7.62,5.4,21.53
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,24.6,5.4,6.67,19.15
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,47.16,8.25,8.25,25.6
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,75.71,9.84,9.52,31.87
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,41.67,9.52,5.71,24.55
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,46.79,10.16,6.03,26.17
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,39.07,7.62,7.3,23.63
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.27,6.98,6.67,21.05
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,44.37,8.89,7.94,25.31
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,41.21,6.98,8.25,23.98
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,17.64,6.35,4.13,16.45
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,46.53,9.84,6.35,25.49
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,50.85,8.57,7.62,26.06
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,58.49,10.79,7.3,28.6
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,47.36,9.21,7.3,25.52
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,45.19,9.21,6.98,25.24
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,48.35,9.52,6.98,25.83
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,52.29,8.89,8.57,28.12
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.03,11.11,4.44,24.92
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,60.71,8.89,9.52,28.12
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,29.29,7.62,6.03,21.16
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,49.17,8.57,7.62,25.62
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,59.57,10.16,7.94,28.8
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,25.01,6.35,5.71,19.13
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,20.63,5.71,5.08,16.96
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,33.87,7.94,6.03,21.47
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,17.35,5.4,4.76,15.4
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,38.76,7.3,7.3,22.64
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,31.92,10.16,4.13,24.29
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,32.06,10.48,4.13,24.15
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,45.59,10.79,6.03,26.71
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.87,8.25,6.35,22.77
+P2x3-594 HNK1-488 20x 2,Bamboo shark,Pre-hatch,TG,37.26,7.62,6.67,22.12
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,280.42,21.57,18.4,68.57
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,480.32,29.19,22.21,87.26
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,360.54,24.11,19.67,72.17
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,283.04,18.4,19.67,64.4
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,419.92,25.38,24.75,84.07
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,374.63,21.57,20.94,72.73
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,455.15,22.21,29.19,91.88
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,191.24,19.04,13.32,61.83
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,187.42,15.86,15.86,54.47
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,423.35,27.28,20.3,81.48
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,221.44,17.77,15.86,61.37
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,259.48,20.3,22.21,68.14
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,369.2,22.84,25.38,80.19
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,424.55,22.84,22.84,78.64
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,322.29,22.84,18.4,67.85
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,280.42,21.57,18.4,68.57
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,480.32,29.19,22.21,87.26
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,360.54,24.11,19.67,72.17
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,283.04,18.4,19.67,64.4
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,419.92,25.38,24.75,84.07
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,374.63,21.57,20.94,72.73
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,455.15,22.21,29.19,91.88
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,191.24,19.04,13.32,61.83
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,187.42,15.86,15.86,54.47
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,423.35,27.28,20.3,81.48
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,221.44,17.77,15.86,61.37
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,259.48,20.3,22.21,68.14
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,369.2,22.84,25.38,80.19
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,424.55,22.84,22.84,78.64
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,322.29,22.84,18.4,67.85
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,280.42,21.57,18.4,68.57
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,480.32,29.19,22.21,87.26
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,360.54,24.11,19.67,72.17
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,283.04,18.4,19.67,64.4
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,419.92,25.38,24.75,84.07
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,374.63,21.57,20.94,72.73
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,455.15,22.21,29.19,91.88
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,191.24,19.04,13.32,61.83
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,187.42,15.86,15.86,54.47
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,423.35,27.28,20.3,81.48
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,221.44,17.77,15.86,61.37
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,259.48,20.3,22.21,68.14
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,369.2,22.84,25.38,80.19
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,424.55,22.84,22.84,78.64
+Tg 10x 2-A,Bamboo shark,Pre-hatch,TG,322.29,22.84,18.4,67.85
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,613.35,25.4,29.52,96.43
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,491.91,21.9,32.38,87.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,315.75,23.81,18.73,75.41
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,165.08,12.38,19.68,54
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,325.07,23.17,23.49,74.97
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,382.76,28.89,20.95,81.89
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,281.03,18.1,22.54,65.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,368.71,20.32,22.86,74.55
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,178.03,13.33,19.05,55.14
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,225.6,13.97,27.94,70.49
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,161.85,12.06,18.41,50.1
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,146.59,14.92,13.33,49.7
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,127.79,9.52,16.83,45.01
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,511.56,23.49,27.94,86.13
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,195.62,15.24,20,58.3
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,613.35,25.4,29.52,96.43
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,491.91,21.9,32.38,87.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,315.75,23.81,18.73,75.41
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,165.08,12.38,19.68,54
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,325.07,23.17,23.49,74.97
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,382.76,28.89,20.95,81.89
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,281.03,18.1,22.54,65.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,368.71,20.32,22.86,74.55
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,178.03,13.33,19.05,55.14
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,225.6,13.97,27.94,70.49
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,161.85,12.06,18.41,50.1
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,146.59,14.92,13.33,49.7
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,127.79,9.52,16.83,45.01
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,511.56,23.49,27.94,86.13
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,195.62,15.24,20,58.3
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,613.35,25.4,29.52,96.43
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,491.91,21.9,32.38,87.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,315.75,23.81,18.73,75.41
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,165.08,12.38,19.68,54
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,325.07,23.17,23.49,74.97
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,382.76,28.89,20.95,81.89
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,281.03,18.1,22.54,65.18
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,368.71,20.32,22.86,74.55
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,178.03,13.33,19.05,55.14
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,225.6,13.97,27.94,70.49
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,161.85,12.06,18.41,50.1
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,146.59,14.92,13.33,49.7
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,127.79,9.52,16.83,45.01
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,511.56,23.49,27.94,86.13
+Tg CGRP-633 Acetub-488 4-B,Bamboo shark,Pre-hatch,TG,195.62,15.24,20,58.3
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,175.46,13.97,16.83,51.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,189.87,12.7,18.1,52.99
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,231.9,16.83,19.37,60.16
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,164.07,14.6,12.7,48.63
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,250.94,15.24,20.63,61.54
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,237.79,14.6,20.95,59.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,359.28,20.63,23.49,72.4
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,374.7,20.63,23.81,74.23
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,161.85,13.02,16.19,47.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,254.37,15.87,20.63,59.46
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,222.47,16.19,16.83,55.17
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,232.25,18.73,16.19,58.45
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,315.75,16.83,21.59,66.32
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,217.53,15.24,17.46,56.49
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,234.62,15.56,18.73,59.55
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,190.98,16.19,15.56,54.08
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,253.06,21.27,15.87,61.61
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,243.23,16.83,17.14,56.58
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,241.27,16.51,17.78,59.34
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,246.16,16.83,19.37,61.05
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,224.89,16.19,15.87,57.28
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,245.55,13.33,21.9,61.69
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,201.51,11.75,19.37,55.04
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,203.68,17.14,16.51,54.62
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,200.05,15.87,16.19,53.41
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,305.97,21.27,21.27,67.42
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,109.15,10.79,13.33,38.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,215.67,18.73,15.87,56.72
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,256.54,11.75,25.4,65.71
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,175.46,13.97,16.83,51.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,189.87,12.7,18.1,52.99
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,231.9,16.83,19.37,60.16
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,164.07,14.6,12.7,48.63
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,250.94,15.24,20.63,61.54
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,237.79,14.6,20.95,59.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,359.28,20.63,23.49,72.4
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,374.7,20.63,23.81,74.23
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,161.85,13.02,16.19,47.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,254.37,15.87,20.63,59.46
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,222.47,16.19,16.83,55.17
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,232.25,18.73,16.19,58.45
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,315.75,16.83,21.59,66.32
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,217.53,15.24,17.46,56.49
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,234.62,15.56,18.73,59.55
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,190.98,16.19,15.56,54.08
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,253.06,21.27,15.87,61.61
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,243.23,16.83,17.14,56.58
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,241.27,16.51,17.78,59.34
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,246.16,16.83,19.37,61.05
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,224.89,16.19,15.87,57.28
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,245.55,13.33,21.9,61.69
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,201.51,11.75,19.37,55.04
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,203.68,17.14,16.51,54.62
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,200.05,15.87,16.19,53.41
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,305.97,21.27,21.27,67.42
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,109.15,10.79,13.33,38.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,215.67,18.73,15.87,56.72
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,256.54,11.75,25.4,65.71
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,175.46,13.97,16.83,51.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,189.87,12.7,18.1,52.99
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,231.9,16.83,19.37,60.16
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,164.07,14.6,12.7,48.63
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,250.94,15.24,20.63,61.54
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,237.79,14.6,20.95,59.64
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,359.28,20.63,23.49,72.4
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,374.7,20.63,23.81,74.23
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,161.85,13.02,16.19,47.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,254.37,15.87,20.63,59.46
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,222.47,16.19,16.83,55.17
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,232.25,18.73,16.19,58.45
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,315.75,16.83,21.59,66.32
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,217.53,15.24,17.46,56.49
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,234.62,15.56,18.73,59.55
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,190.98,16.19,15.56,54.08
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,253.06,21.27,15.87,61.61
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,243.23,16.83,17.14,56.58
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,241.27,16.51,17.78,59.34
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,246.16,16.83,19.37,61.05
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,224.89,16.19,15.87,57.28
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,245.55,13.33,21.9,61.69
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,201.51,11.75,19.37,55.04
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,203.68,17.14,16.51,54.62
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,200.05,15.87,16.19,53.41
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,305.97,21.27,21.27,67.42
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,109.15,10.79,13.33,38.84
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,215.67,18.73,15.87,56.72
+Tg P2X3-488 AceTub-594 20x 1-C,Bamboo shark,Pre-hatch,TG,256.54,11.75,25.4,65.71
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,248.42,19.05,19.37,65.45
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,79.82,11.11,10.48,35.36
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,261.93,21.9,16.83,61.57
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,247.11,19.68,18.1,61.27
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,191.03,17.46,15.56,54.25
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,239.66,14.92,18.73,59.74
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,200.1,16.51,14.6,53.52
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,158.63,13.33,13.97,48.73
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,69.14,8.89,9.84,32.41
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,228.72,17.14,16.51,56.75
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,154.6,15.56,13.02,48.55
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,248.42,19.05,19.37,65.45
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,79.82,11.11,10.48,35.36
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,261.93,21.9,16.83,61.57
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,247.11,19.68,18.1,61.27
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,191.03,17.46,15.56,54.25
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,239.66,14.92,18.73,59.74
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,200.1,16.51,14.6,53.52
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,158.63,13.33,13.97,48.73
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,69.14,8.89,9.84,32.41
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,228.72,17.14,16.51,56.75
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,154.6,15.56,13.02,48.55
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,248.42,19.05,19.37,65.45
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,79.82,11.11,10.48,35.36
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,261.93,21.9,16.83,61.57
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,247.11,19.68,18.1,61.27
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,191.03,17.46,15.56,54.25
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,239.66,14.92,18.73,59.74
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,200.1,16.51,14.6,53.52
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,158.63,13.33,13.97,48.73
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,69.14,8.89,9.84,32.41
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,228.72,17.14,16.51,56.75
+Tg P2X3-488 AceTub-594 20x 2b-E,Bamboo shark,Pre-hatch,TG,154.6,15.56,13.02,48.55
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,516.4,28.25,26.67,96.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,395.41,24.44,20.95,72.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.22,18.73,21.27,68.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,229.78,19.37,15.87,59.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,327.23,21.9,18.41,66.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,381.91,26.35,24.13,78.64
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,129.55,13.33,11.75,41.33
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,206.95,17.14,15.24,53.13
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,303.6,20.63,20.63,66.01
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,136.86,12.7,13.33,43.67
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,197.23,18.1,13.65,51.75
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,401.66,25.4,20,74.66
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,202.07,16.51,15.24,53.25
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,355.96,25.71,20.32,72.98
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,289.74,24.76,15.56,67.56
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,214.01,17.78,14.92,54.57
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,182.82,13.33,16.51,50.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,258.7,19.68,17.78,62.74
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,223.68,16.51,17.78,56.59
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,200.86,17.78,14.29,54.03
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,203.12,17.78,14.6,57.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,190.88,16.19,15.87,52.7
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,319.78,23.81,19.05,71.22
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,165.94,15.24,13.33,50.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,222.32,21.9,15.24,59.95
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,211.08,15.87,16.83,55.62
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,231.85,17.46,16.19,57.73
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,207.66,15.56,15.87,54.34
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,288.99,17.14,20.32,63.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,387.05,23.17,21.59,74.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,238.65,18.73,16.51,59.63
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,185.29,16.19,13.97,51.94
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,322.45,19.37,20,67.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,226.96,23.17,13.33,60.5
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.62,23.81,17.14,74.72
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,451.65,22.22,23.81,79.57
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,516.4,28.25,26.67,96.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,395.41,24.44,20.95,72.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.22,18.73,21.27,68.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,229.78,19.37,15.87,59.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,327.23,21.9,18.41,66.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,381.91,26.35,24.13,78.64
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,129.55,13.33,11.75,41.33
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,206.95,17.14,15.24,53.13
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,303.6,20.63,20.63,66.01
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,136.86,12.7,13.33,43.67
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,197.23,18.1,13.65,51.75
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,401.66,25.4,20,74.66
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,202.07,16.51,15.24,53.25
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,355.96,25.71,20.32,72.98
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,289.74,24.76,15.56,67.56
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,214.01,17.78,14.92,54.57
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,182.82,13.33,16.51,50.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,258.7,19.68,17.78,62.74
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,223.68,16.51,17.78,56.59
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,200.86,17.78,14.29,54.03
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,203.12,17.78,14.6,57.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,190.88,16.19,15.87,52.7
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,319.78,23.81,19.05,71.22
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,165.94,15.24,13.33,50.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,222.32,21.9,15.24,59.95
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,211.08,15.87,16.83,55.62
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,231.85,17.46,16.19,57.73
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,207.66,15.56,15.87,54.34
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,288.99,17.14,20.32,63.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,387.05,23.17,21.59,74.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,238.65,18.73,16.51,59.63
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,185.29,16.19,13.97,51.94
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,322.45,19.37,20,67.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,226.96,23.17,13.33,60.5
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.62,23.81,17.14,74.72
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,451.65,22.22,23.81,79.57
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,516.4,28.25,26.67,96.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,395.41,24.44,20.95,72.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.22,18.73,21.27,68.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,229.78,19.37,15.87,59.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,327.23,21.9,18.41,66.41
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,381.91,26.35,24.13,78.64
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,129.55,13.33,11.75,41.33
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,206.95,17.14,15.24,53.13
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,303.6,20.63,20.63,66.01
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,136.86,12.7,13.33,43.67
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,197.23,18.1,13.65,51.75
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,401.66,25.4,20,74.66
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,202.07,16.51,15.24,53.25
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,355.96,25.71,20.32,72.98
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,289.74,24.76,15.56,67.56
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,214.01,17.78,14.92,54.57
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,182.82,13.33,16.51,50.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,258.7,19.68,17.78,62.74
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,223.68,16.51,17.78,56.59
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,200.86,17.78,14.29,54.03
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,203.12,17.78,14.6,57.21
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,190.88,16.19,15.87,52.7
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,319.78,23.81,19.05,71.22
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,165.94,15.24,13.33,50.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,222.32,21.9,15.24,59.95
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,211.08,15.87,16.83,55.62
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,231.85,17.46,16.19,57.73
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,207.66,15.56,15.87,54.34
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,288.99,17.14,20.32,63.77
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,387.05,23.17,21.59,74.19
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,238.65,18.73,16.51,59.63
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,185.29,16.19,13.97,51.94
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,322.45,19.37,20,67.15
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,226.96,23.17,13.33,60.5
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,325.62,23.81,17.14,74.72
+Tg P2X3-488 AceTub-594 20x-D,Bamboo shark,Pre-hatch,TG,451.65,22.22,23.81,79.57
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,119.98,12.38,13.33,40.64
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,94.73,8.57,14.6,40.25
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,106.98,10.48,13.33,38.89
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,107.53,11.43,13.33,39.3
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,99.82,11.75,12.06,38.33
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,82.89,11.11,9.84,35.26
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,113.73,12.06,12.38,40.12
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,74.38,9.21,11.11,33.4
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,129.15,13.02,13.02,44.44
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,85.01,10.79,10.48,34.42
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,88.79,9.84,12.7,37.56
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,83.14,10.48,10.48,33.64
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,74.63,9.84,11.11,33.03
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,116.15,11.75,13.02,41.51
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,125.22,13.33,12.7,41.73
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,111.77,13.02,11.75,39.94
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,102.9,10.79,12.38,37.63
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,103.8,9.21,15.87,40.58
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,101.79,11.75,12.7,40.07
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,87.12,9.52,12.7,35.68
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,87.12,12.06,12.7,36.82
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,52.61,7.3,9.52,28.01
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,62.33,8.25,10.48,30.16
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,85.11,10.48,12.06,37.37
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,74.83,11.75,9.84,34.28
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,99.57,10.79,13.65,39.24
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,128.5,14.29,11.75,42.92
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,110.96,12.38,12.7,39.45
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,111.26,12.06,13.02,40.12
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,82.89,9.52,11.11,33.79
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,49.63,7.94,7.94,25.93
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,55.83,7.62,9.21,28.02
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,18.59,5.08,5.08,16.41
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,45.86,9.21,6.35,26.33
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,42.58,8.57,8.25,25.72
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,59.06,10.48,7.62,29.98
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,44.55,9.21,6.03,26.11
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,114.29,14.29,10.48,39.46
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,90.05,9.21,12.06,35.3
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,47.57,8.89,7.3,25.93
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,101.08,11.75,11.43,38.41
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,71.76,9.84,10.48,31.91
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,72.46,7.94,11.11,32.09
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,70.09,9.52,10.48,32.6
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,131.27,13.33,13.65,42.28
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,46.01,8.25,6.35,26.04
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,33.66,6.35,6.35,21.76
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,76.14,9.84,12.06,34.98
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,86.72,9.52,11.75,34.42
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,68.38,7.94,10.79,31.19
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,46.51,9.84,6.03,26.57
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,74.53,10.16,10.16,32.38
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,39.41,5.08,9.52,24.78
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,144.42,13.33,14.92,44.21
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,125.47,11.43,13.97,40.9
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,68.38,9.21,9.84,30.53
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,51.5,7.3,9.84,27.52
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,50.09,7.62,7.94,26.4
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,81.63,8.89,11.43,33.96
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,75.23,9.21,10.16,32.13
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,73.57,11.11,7.94,32.6
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,41.52,6.35,7.94,24.61
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,46.31,6.98,8.57,25.68
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,62.74,7.62,10.16,29.35
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,61.53,8.57,8.25,28.83
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,47.92,8.57,8.25,26.35
+ngn1-594 nf-488 20x 4 rl - tg,Bamboo shark,32,TG,62.28,11.11,9.21,32.24
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,86.37,10.48,12.06,39.61
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,48.98,7.62,8.25,26.02
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,88.13,11.43,12.06,36.91
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,86.72,13.02,9.84,42.79
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,93.57,12.06,12.06,37.63
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,71.3,11.43,7.94,31.8
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,68.88,12.06,10.48,34.56
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,93.57,9.84,15.56,40.26
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,135.3,11.75,15.56,43.29
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,58.25,9.84,9.52,29.83
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,105.16,11.43,12.7,38.61
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,67.17,11.11,9.52,33.56
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,89.09,10.48,11.43,35.81
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,27.61,6.67,7.94,23.84
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,87.58,10.79,11.43,36.4
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,91.41,13.33,13.65,41.5
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,84.76,8.57,11.75,34.78
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,63.64,9.52,10.16,30.89
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,78.96,12.38,10.48,35.82
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,59.71,7.62,10.79,29.9
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,81.78,9.84,12.38,34.31
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,52.31,9.21,9.21,27.96
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,34.62,6.98,7.62,23.15
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,79.87,9.21,13.02,35.03
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,125.52,11.43,13.65,41.89
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,60.37,7.94,9.84,28.9
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,47.01,8.25,8.57,26.79
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,105.37,11.75,11.43,38.35
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,60.01,6.98,12.38,31.43
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,28.02,4.76,8.25,21.51
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,120.43,19.05,13.02,51.07
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,106.58,13.97,10.16,38.79
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,82.89,9.21,12.38,35.22
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,55.53,6.98,11.11,29.92
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,53.97,10.79,10.48,33.53
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,35.53,5.08,10.16,26.52
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,84.61,11.43,9.52,34.03
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,85.01,11.75,10.16,37.45
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,85.87,8.89,14.92,38.75
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,66.06,8.89,11.75,31.72
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,35.02,6.03,6.98,22.48
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,72.36,7.94,13.02,33.84
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,79.36,11.11,11.43,35.09
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,92.97,10.16,12.7,37.05
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,63.64,7.3,12.38,31.56
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,101.79,12.7,12.38,38.85
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,76.34,11.43,11.11,35.02
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,50.84,7.94,9.52,27.16
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,57.9,9.21,11.11,31.65
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,109.7,15.56,9.52,41.16
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,29.48,5.71,7.3,20.64
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,94.94,10.79,13.65,38.21
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,66.82,11.43,9.84,33.1
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,65.41,15.87,6.98,40.93
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,71.1,12.38,9.52,32.84
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,69.99,7.3,12.38,32.1
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,54.07,9.84,10.16,31.36
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,59.21,11.43,8.25,32.41
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.07,6.35,9.84,26.33
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,91.76,8.89,13.65,37.91
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,87.83,10.16,12.38,35.63
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,59.91,11.11,8.89,30.3
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,72.01,8.25,12.06,32.8
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,39.35,5.4,10.48,28.33
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,98.97,10.79,10.79,36.31
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,255.03,19.05,16.51,58.46
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,191.99,18.1,13.65,51.51
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.57,10.79,6.03,27.34
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,53.11,8.57,7.62,26.55
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,40.46,5.08,9.21,26.01
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,69.29,8.89,9.84,30.65
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,40.31,9.84,6.35,26.91
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,42.18,6.67,7.94,24.35
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,32.9,6.35,6.67,21.75
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,27.16,6.98,5.71,20.16
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,23.33,5.71,6.03,18.16
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,32.65,8.57,5.08,22.8
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,32.1,6.35,6.67,20.62
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,31.49,7.62,5.71,21.47
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.62,6.98,8.25,24.65
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,47.32,8.57,8.25,27.68
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,40.01,9.52,6.03,24.75
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,34.72,6.67,7.62,23.49
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.47,6.35,9.21,24.5
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,43.49,9.52,6.03,26.22
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,35.93,6.67,7.94,23.38
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,39.51,7.62,8.25,24.51
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,42.68,7.94,7.3,24.01
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,35.37,5.08,9.21,25.06
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.22,7.94,7.94,24.14
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,42.98,7.62,6.98,24.4
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,37.59,7.62,6.03,23.22
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,33.51,6.67,6.98,21.44
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,46.01,8.25,6.98,25.05
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,40.56,6.35,7.94,23.93
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,42.33,6.35,8.57,24.33
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,45.3,8.89,6.67,25.63
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,45.75,7.62,7.62,24.92
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,36.99,7.3,6.67,22.42
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,49.58,8.57,7.3,26.11
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,49.84,8.57,8.25,26.64
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,40.26,7.94,7.94,25.65
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.92,8.57,6.35,24.65
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,32.5,6.03,7.62,21.71
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,49.28,7.62,8.57,26.72
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,34.57,7.3,7.62,24.25
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,28.97,5.4,8.25,22.4
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,33.86,5.08,9.21,23.36
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,29.93,5.71,6.67,20.48
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,34.32,5.71,6.98,21.75
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,30.59,6.35,6.03,20.9
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,34.47,6.03,7.94,22.35
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,38.8,6.35,7.94,23.86
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,49.79,8.89,7.62,26.59
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,39.61,7.94,6.67,23.55
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,31.95,7.94,5.71,21.54
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,41.32,9.52,5.4,25.14
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,47.37,8.25,7.3,26.04
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,37.69,6.98,6.98,23.05
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,19.3,6.67,4.13,17.29
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,31.19,6.03,6.35,21.38
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,25.45,5.4,5.71,19.13
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,61.58,9.21,9.21,28.85
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,49.53,9.21,7.3,27.99
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,31.44,6.67,5.08,21.77
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,60.52,8.25,10.16,30.44
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,93.17,10.48,13.02,38.17
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,94.58,11.43,12.06,38.29
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,35.22,5.4,10.48,26.26
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,77.4,8.89,12.7,34.18
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,63.49,7.3,10.48,30.17
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,77.65,7.62,13.33,34.34
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,52,8.89,9.52,29.55
+ngn1-594 nf-488 20x 6- tg,Bamboo shark,32,TG,111.46,11.43,14.29,41.77
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,99.17,10.79,12.06,36.24
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,60.57,8.25,9.84,28.78
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,49.28,9.21,9.52,28.06
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,101.74,10.16,15.87,41.8
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,112.77,9.84,13.33,39.36
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,44.14,6.35,11.11,27.04
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,57.04,8.25,11.43,29.58
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,63.49,9.52,10.48,31.39
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,50.99,8.25,10.16,28.69
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,74.02,9.52,10.48,31.68
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,57.29,8.57,9.52,28.76
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,83.09,7.94,13.65,36.07
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,61.27,10.79,8.25,29.48
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,55.43,6.98,11.75,29.7
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,68.93,8.57,11.43,32.36
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,65.61,9.52,11.11,33.01
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,52.25,8.25,12.06,33.32
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,41.37,6.35,10.48,26.41
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,67.47,11.11,12.7,36.75
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,64.9,9.52,10.16,31.47
+ret-488 acetub-594 20x 1 - drg,Bamboo shark,32,DRG,77.95,13.33,8.89,35.08
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,55.33,8.57,9.21,32.93
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,28.77,5.71,7.62,21.95
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,50.94,10.16,7.94,29.4
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,53.46,11.43,6.03,29.41
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,37.39,6.67,6.98,22.98
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,23.63,5.71,5.4,18.47
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,25.6,4.76,6.35,19.48
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,37.74,7.94,7.3,24.62
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,42.38,7.62,7.3,25.98
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,54.67,7.94,8.89,29.88
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,34.87,7.94,7.3,24.58
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,55.73,11.11,10.48,34.13
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,54.72,6.67,13.33,32.1
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,33.56,7.94,7.3,27.18
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,35.88,7.3,8.25,24.79
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,29.98,5.71,7.62,21.97
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,46.01,6.35,9.52,26.67
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,70.75,12.06,7.62,33.34
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,72.36,10.48,10.48,34.86
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,37.49,10.16,5.4,25.52
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,59.96,12.38,9.84,33.86
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,58.7,8.25,11.11,30.25
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,45.8,9.21,7.94,28.03
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,33.91,9.52,6.67,27.11
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,44.04,12.06,6.35,29.69
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,66.67,12.06,8.25,33.93
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,36.08,9.52,8.25,28.07
+trka-488 hnk1-594 20x 1 - drg,Bamboo shark,32,DRG,33.31,6.03,8.57,26
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,63.34,6.67,13.97,33.34
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,91.06,10.48,13.33,36.89
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,56.49,7.94,8.89,28.27
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,102.9,11.11,14.6,40.71
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,38.75,8.57,7.62,24.93
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,49.58,10.48,6.03,27.41
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,74.28,11.75,7.94,32.91
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,52.41,9.21,7.62,27.16
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,37.99,6.98,6.98,22.98
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,72.36,12.06,11.11,36.53
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,70.19,10.16,10.16,33.6
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,35.27,6.67,7.3,23.75
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,35.42,6.67,7.62,23.58
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,44.85,12.7,5.08,30.08
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,35.68,7.94,5.71,22.77
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,66.77,12.06,9.84,33.58
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,34.57,8.25,5.4,22.33
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,64.2,11.11,7.3,31.14
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,46.41,10.16,5.71,26.6
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,56.49,11.11,6.98,30.74
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,35.17,10.79,6.03,28.25
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,29.63,7.94,5.71,21.45
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,77.45,10.48,10.48,34.42
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,61.38,8.25,9.52,29.01
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,65.91,8.89,9.84,29.73
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,59.26,11.75,6.35,30.26
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,44.34,8.25,6.67,24.74
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,45.6,9.52,7.62,27.99
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,51.6,8.57,7.62,27.59
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,61.32,11.43,6.98,30.44
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,45.25,10.16,6.03,25.97
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,51.95,9.84,7.94,28.3
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,62.99,11.43,7.62,31.46
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,59.71,10.48,7.62,29.57
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,47.17,6.35,9.21,26.02
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,33.61,5.71,8.89,23.33
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,63.24,9.21,10.79,32.61
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,75.99,11.43,11.11,34.64
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,68.28,11.43,9.84,33.93
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,56.74,8.89,9.52,30.39
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,65.51,15.24,6.67,36.67
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,63.64,9.52,9.84,31.76
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,46.11,8.89,7.62,25.94
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,71.1,10.79,11.11,34.43
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,50.49,8.89,7.94,26.5
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,40.61,8.57,6.98,24.68
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,81.33,11.11,9.52,35.82
+trka-488 hnk1-594 20x 3 - drg,Bamboo shark,32,DRG,50.74,9.52,7.3,27.84
