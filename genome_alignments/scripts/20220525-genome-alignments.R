@@ -10,6 +10,8 @@
 library(tidyverse)
 library(here)
 library(ggpubr)
+library(scales)
+library(PNWColors)
 
 ### Load data
 cp_align <- read_csv(here("genome_alignments","data","20220523-Cp.csv"))
@@ -91,17 +93,25 @@ master <- cpfilter %>%
 
   
 # Plot
+pal <- pnw_palette("Winter")
 
 p <- master %>% 
   ggbarplot(x = "Gene", y = "Perc_Identiy", fill = "E_value") +
   facet_wrap(~name)+
-  coord_flip()
+  coord_flip() +
+  theme_pubclean()+
+  theme(legend.position = "right")+
+  gradient_fill(pal)
 
 p
 
 pq <- master %>% 
   ggbarplot(x = "Gene", y = "Perc_Identiy", fill = "Query_cover") +
+  labs(y="Percent Identity", x=" ", fill = "Query cover")+
   facet_wrap(~name)+
-  coord_flip()
+  coord_flip() +
+  theme_pubclean()+
+  theme(legend.position = "right")+
+  gradient_fill(pal)
 
 pq
