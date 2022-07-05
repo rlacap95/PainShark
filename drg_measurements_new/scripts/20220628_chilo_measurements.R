@@ -19,7 +19,8 @@ master <- read_csv(here("drg_measurements_new","chilo","20220628_masterlist.csv"
 ### statistics
 master <- master %>% 
   mutate(avg_dia = x+y/2) %>%   #create average diameters between x and y
-  filter(area >= 10) %>% 
+  filter(area >= 10,
+         exp != "P2X3-488 AceTub-594 20x 2a") %>% 
   select(1:5,8,9) %>% 
   mutate(dev_stage = recode(dev_stage,
                            'Pre-hatch' = "Hatched",
@@ -40,7 +41,11 @@ cell_ave <- master %>%
   summarise(avg = mean(area),
             sd = sd(area),
             var = var(area),
-            med = median(area))
+            med = median(area)) 
+
+cell_count <- master %>% 
+  group_by(tissue,dev_stage,exp) %>% 
+  count()
 
 # t-test
 area_ttest <- master %>% 
@@ -53,8 +58,9 @@ area_ttest <- master %>%
 
 area_p <- master %>% 
   gghistogram(x = "area", add = "mean", rug = TRUE,
+              combine = TRUE,
               color = "tissue", fill = "tissue",
-              bins = 30)+
+              bins = 40)+
   labs(x = "Soma Size (μm2)", y = "Number of cells")+
   theme_classic()+
   facet_wrap(~dev_stage, scales = "free")+
