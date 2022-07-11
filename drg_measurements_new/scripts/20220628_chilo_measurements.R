@@ -10,7 +10,6 @@
 library(tidyverse)
 library(here)
 library(ggpubr)
-library(report) 
 library(hablar)
 
 ### Load data
@@ -51,7 +50,6 @@ cell_count <- master %>%
 area_ttest <- master %>% 
   select(3,4,5) %>% 
   group_by(tissue,dev_stage) %>% 
-  report() %>% 
   as.data.frame()
 
 ### plot data
