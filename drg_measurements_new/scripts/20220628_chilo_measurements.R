@@ -13,7 +13,7 @@ library(ggpubr)
 library(hablar)
 
 ### Load data
-master <- read_csv(here("drg_measurements_new","chilo","20220628_masterlist.csv"))
+master <- read_csv(here("drg_measurements_new","chilo","20221011_masterlist.csv"))
 
 ### statistics
 master <- master %>% 
@@ -77,7 +77,7 @@ snow_p <- master %>%
               bins = 40)+
   labs(x = "Avg. Diameter (μm)", y = "Number of cells")+
   theme_classic()+
-  facet_wrap(~dev_stage)+
+  facet_wrap(~dev_stage, scales = "free")+
   theme(axis.title.x = element_text(size = 30, face = 2),
         axis.text.x = element_text(size = 24, face = 2),
         axis.title.y = element_text(size = 30, face = 2),
